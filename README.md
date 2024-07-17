@@ -1,6 +1,11 @@
 web_video_server [![Build Status](https://api.travis-ci.org/RobotWebTools/web_video_server.png)](https://travis-ci.org/RobotWebTools/web_video_server)
 ================
 
+### Version
+
+Current version for ubuntu 24.04 and ROS2 jazzy
+
+
 #### HTTP Streaming of ROS Image Topics in Multiple Formats
 This node combines the capabilities of [ros_web_video](https://github.com/RobotWebTools/ros_web_video) and [mjpeg_server](https://github.com/RobotWebTools/mjpeg_server) into a single node.
 
